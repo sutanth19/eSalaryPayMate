@@ -19,6 +19,7 @@ export default function EmployeesPage() {
       phoneNumber: "011-9876543",
       identityNumber: "A1234567", // Passport or foreign ID },
     },
+
   ];
 
   return (
